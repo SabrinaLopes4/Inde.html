@@ -1,0 +1,56 @@
+<!doctype html>
+
+	<head>
+		<title>
+			JM VIAGENS-Pagina principal
+		</title>
+
+	</head>
+
+	<body>
+			
+		<table border="0" width="900" align="center">
+			<tr>
+				<td><img src="imagens/logo.png"></td>
+				<td align="right">
+					<a href="index.html"> Home </a> |
+					<a href="quem somos.html">Quem somos</a> | 	
+					<a href="contato.html">Contato </a> 
+
+				</td>
+			</tr>
+
+			<tr>
+				<td colspan="2">
+					<img src="imagens/principal.png">
+				</td>
+
+			</tr>
+
+			<tr>
+				<td colspan="2">
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at risus eu eros tempor cursus. Nam quis ante sed elit faucibus volutpat vitae sed mauris. Mauris ut elit ut ex cursus eleifend. Sed ut augue urna. Sed ac erat rhoncus, rhoncus sapien ut, ullamcorper augue. Sed volutpat pretium pulvinar. In hac habitasse platea dictumst. Donec non varius enim. Donec tellus nunc, convallis nec erat a, porta efficitur arcu. </p>
+
+				<p>	Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ornare ligula sapien, et blandit tellus molestie ac. Aliquam sit amet lorem sapien. Nulla in vestibulum mauris. Vestibulum eu massa egestas, maximus sem quis, mattis magna. Nullam consectetur turpis sit amet diam auctor dignissim. Mauris non metus ac mi viverra rutrum a nec turpis. Donec luctus velit mattis tempus hendrerit. Quisque at pulvinar quam. Suspendisse nunc diam, rutrum et magna vel, feugiat tincidunt urna. Praesent ex tellus, imperdiet ut est scelerisque, luctus posuere neque. Etiam pretium leo quis nibh venenatis dictum. Ut condimentum tortor non dolor sodales malesuada. </p>
+				</td>	
+
+
+			</tr>
+
+			</tr>
+
+			<tr>
+				<
+				<td align="center" colspan="2"><b>Todos os direitos reservados</b></td>	
+
+
+			</tr>
+
+
+
+
+		</table>
+
+
+
+	</body>
